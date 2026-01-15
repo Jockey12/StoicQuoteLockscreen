@@ -4,7 +4,7 @@ A lockscreen widget that displays random Stoic quotes from an API using Quickshe
 
 ## Prerequisites
 
-- **end4 dots hyprland** - This project requires end4 dots hyprland configuration to work properly.
+- **end4 dots Hyprland** - This project requires end4 dots Hyprland configuration to work properly.
 - **Quickshell** - A QML-based shell for creating custom widgets.
 
 ## Installation
@@ -41,4 +41,4 @@ Once installed and configured, the widget will display random Stoic quotes on yo
 
 ## Credits
 
-Built for use with end4 dots hyprland configuration.
+Built for use with end4 dots Hyprland configuration.
