@@ -1,6 +1,6 @@
 # Stoic Quote Integration for Quickshell
 Random Stoic quotes from https://stoic.tekloon.net/stoic-quote displayed on the lockscreen for quickshell. 
-- [End4 dots](https://github.com/end-4/dots-hyprland)
+- Required [End4 dots](https://github.com/end-4/dots-hyprland) to work.
 
 ## Features
 
